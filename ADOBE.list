@@ -1,0 +1,50 @@
+#adobe
+DOMAIN-SUFFIX,genuine.adobe.com
+DOMAIN-SUFFIX,assets.adobedtm.com
+DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,ic.adobe.io
+DOMAIN-SUFFIX,ADOBE.tt.omtrdc.net
+DOMAIN-SUFFIX,geo2.adobe.com
+DOMAIN-SUFFIX,sstats.adobe.com
+DOMAIN-SUFFIX,lcs-robs.adobe.io
+DOMAIN-SUFFIX,lcs-cops.adobe.io
+DOMAIN-SUFFIX,crs.cr.adobe.com
+DOMAIN-SUFFIX,cclibraries-defaults-cdn.adobe.com
+    
+DOMAIN-SUFFIX,p13n.adobe.io
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,ims-prod06.adobelogin.com
+DOMAIN-SUFFIX,cctypekit.adobe.io
+    
+DOMAIN-SUFFIX,lm.licenses.adobe.com
+DOMAIN-SUFFIX,lmlicenses.wip4.adobe.com
+DOMAIN-SUFFIX,lm-prd-da1.licenses.adobe.com
+DOMAIN-SUFFIX,activate.adobe.com
+DOMAIN-SUFFIX,activate.wip4.adobe.com
+DOMAIN-SUFFIX,practivate.adobe.com
+DOMAIN-SUFFIX,practivate-da1.adobe.com
+DOMAIN-SUFFIX,na1r.services.adobe.com
+DOMAIN-SUFFIX,hlrcv.stage.adobe.com
+DOMAIN-SUFFIX,uds.licenses.adobe.com
+DOMAIN-SUFFIX,licenses.adobe.com
+DOMAIN-SUFFIX,license.adobe.com
+DOMAIN-SUFFIX,helpexamples.com
+DOMAIN-SUFFIX,activate-sea.adobe.com
+DOMAIN-SUFFIX,activate-sjc0.adobe.com
+DOMAIN-SUFFIX,ereg.adobe.com
+DOMAIN-SUFFIX,activate.adobe.com
+DOMAIN-SUFFIX,services.adobe.com
+DOMAIN-SUFFIX,activate.wip3.adobe.com
+DOMAIN-SUFFIX,wip3.adobe.com
+DOMAIN-SUFFIX,ereg.wip3.adobe.com
+DOMAIN-SUFFIX,wwis-dubc1-vip60.adobe.com
+DOMAIN-SUFFIX,genuine.adobe.com
+DOMAIN-SUFFIX,prod.adobegenuine.com
+# DOMAIN-SUFFIX,auth.services.adobe.com
+# DOMAIN-SUFFIX,adobesearch.adobe.io
+# DOMAIN-SUFFIX,polka.typekit.com
+# DOMAIN-SUFFIX,hbrt.adobe.com
+# DOMAIN-SUFFIX,platform-cs.adobe.io
+    
+DOMAIN-SUFFIX,"*.adobe.io"
+DOMAIN-SUFFIX,b5kbg2ggog.adobe.io

@@ -1,0 +1,103 @@
+# 盗版屏蔽
+# Maxon Cinema 4D;
+DOMAIN-SUFFIX,updater.maxon.net
+IP-CIDR,138.201.129.80/32
+IP-CIDR,138.201.129.48/32
+IP-CIDR,138.201.129.46/32
+IP-CIDR,138.201.129.38/32
+IP-CIDR,138.201.129.37/32
+IP-CIDR,138.201.129.39/32
+IP-CIDR,88.99.93.218/32
+
+#WorldCreator
+IP-CIDR,46.163.69.44/32
+
+#Blender插件
+#DECALmachine
+DOMAIN-SUFFIX,drum.machin3.io
+
+# UltraEdit ; 
+DOMAIN-SUFFIX,licensing.ultraedit.com 
+DOMAIN-SUFFIX,swupdate.ultraedit.com 
+# Proxifier;
+DOMAIN-SUFFIX,proxifier.com 
+DOMAIN-SUFFIX,www.proxifier.com 
+# Art Text 4;
+DOMAIN-SUFFIX,text.design
+DOMAIN-SUFFIX,belightsoft.com
+#录屏软件bandicam
+DOMAIN-SUFFIX,ssl.bandicam.com
+DOMAIN-SUFFIX,ssl.bandisoft.com
+DOMAIN-SUFFIX,cert.bandicam.com
+DOMAIN-SUFFIX,bandicam.com
+#ACDSee
+DOMAIN-SUFFIX,activate.navicat.com
+DOMAIN-SUFFIX,acdid.acdsystems.com
+#Autodesk
+DOMAIN-SUFFIX,'*.autodesk.com'
+#勾正数据服务（电视）
+DOMAIN-SUFFIX,gzads.com
+DOMAIN-SUFFIX,gozendata.com
+DOMAIN-SUFFIX,gz-data.com
+#EaseUS数据恢复
+DOMAIN-SUFFIX,easeus.com
+DOMAIN-SUFFIX,www.easeus.com
+DOMAIN-SUFFIX,activation.easeus.com
+DOMAIN-SUFFIX,easeus.com.cn
+DOMAIN-SUFFIX,www.easeus.com.cn
+DOMAIN-SUFFIX,track.easeus.com
+DOMAIN-SUFFIX,track.easeus.com.cn
+DOMAIN-SUFFIX,api.easeus.com
+DOMAIN-SUFFIX,update.easeus.com
+DOMAIN-SUFFIX,map2.hwcdn.net
+DOMAIN-SUFFIX,easeusinfo.us-east-1.log.aliyuncs.com
+DOMAIN-SUFFIX,aaa100cd68bbe03f3.awsglobalaccelerator.com
+DOMAIN-SUFFIX,uompro.easeus.com
+DOMAIN-SUFFIX,order.easeus.com
+DOMAIN-SUFFIX,curl.haxx.se
+DOMAIN-SUFFIX,buy.easeus.com
+DOMAIN-SUFFIX,v2api-uoss.easeus.com
+DOMAIN,easeus.com
+#Little Snitch
+DOMAIN-SUFFIX,obdev.at
+#ShareMouse
+DOMAIN-SUFFIX,bartelsmedia.com
+
+#Capture One摄影软件
+DOMAIN-SUFFIX,activation.phaseone.com
+DOMAIN-SUFFIX,industrial.phaseone.com
+DOMAIN-SUFFIX,coweb.phaseone.com
+DOMAIN-SUFFIX,help.phaseone.com
+
+#其它
+DOMAIN-KEYWORD,bandisoft
+DOMAIN-KEYWORD,text.design
+DOMAIN-SUFFIX,belightsoft.com
+
+# Topaz Sharpen AI 图片无损放大;
+DOMAIN-SUFFIX,topazlabs.com
+DOMAIN-SUFFIX,auth.topazlabs.com
+DOMAIN-SUFFIX,et.topazlabs.com
+IP-CIDR,104.22.33.115/32
+IP-CIDR,172.67.37.186/32
+
+#腾讯BUG上报
+DOMAIN-SUFFIX,bugreport.qq.com
+
+#Illustrator插件: Hot Door CADtools
+DOMAIN-SUFFIX,keys.hotdoor.com
+
+#EasyUEFI 管理EFI/UEFI启动项
+DOMAIN-SUFFIX,easyuefi.com
+DOMAIN-SUFFIX,easeus.com
+DOMAIN-SUFFIX,easeus.com.cn
+DOMAIN-SUFFIX,api.easeus.com
+DOMAIN-SUFFIX,update.easeus.com
+DOMAIN-SUFFIX,map2.hwcdn.net
+DOMAIN-SUFFIX,easeusinfo.us-east-1.log.aliyuncs.com
+DOMAIN-SUFFIX,aaa100cd68bbe03f3.awsglobalaccelerator.com
+DOMAIN-SUFFIX,uompro.easeus.com
+DOMAIN-SUFFIX,order.easeus.com
+DOMAIN-SUFFIX,curl.haxx.se
+DOMAIN-SUFFIX,buy.easeus.com
+DOMAIN-SUFFIX,v2api-uoss.easeus.com
