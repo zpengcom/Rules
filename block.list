@@ -1,4 +1,4 @@
-# 盗版屏蔽
+# 屏蔽
 # Maxon Cinema 4D;
 DOMAIN-SUFFIX,updater.maxon.net
 IP-CIDR,138.201.129.80/32
